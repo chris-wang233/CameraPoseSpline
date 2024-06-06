@@ -1,2 +1,2 @@
 # CameraPoseSpline
-some algorithm about camera pose spline.Such as B-spline,split polynomial Spline,coupling polynomial Spline.
+Some algorithm about camera pose spline in SLAM.Such as B-spline,split polynomial Spline,coupling polynomial Spline.
